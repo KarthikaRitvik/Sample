@@ -2,12 +2,12 @@
   "Students":[
     {
       "name":"Abc",
-      "age":17.
+      "age":17,
       "department":"IT"
     },
     {
       "name":"Sri",
-      "age":17.
+      "age":17,
       "department":"ECE"
     }
   ]
